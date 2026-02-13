@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+  color: #111827;
+}
+
+.container {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  margin-bottom: 25px;
+
+  border-radius: 14px;
+  border: 1px solid #d1d5db;
+
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+
+  text-align: center;
+}
+
+.card h2 {
+  margin: 0 0 10px;
+  font-size: 24px;
+}
+
+.age {
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.intro {
+  font-style: italic;
+  color: #4b5563;
+  margin-bottom: 15px;
+}
+
+.card p {
+  font-size: 16px;
+  margin: 6px 0;
+}
